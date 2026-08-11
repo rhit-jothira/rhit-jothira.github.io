@@ -13,8 +13,8 @@ export function Hero() {
         >
           <span className='inline-block px-3 py-1 bg-indigo-500/20 border border-indigo-400/30 rounded-full text-xs font-bold text-indigo-300 uppercase tracking-widest'>Available for Internships</span>
           <h1 className="font-display text-5xl font-bold leading-tight tracking-tight text-white md:text-7xl lg:text-8xl">
-            Hardware engineer <br className="hidden md:block" />
-            building <span className='text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-300'>power electronics.</span>
+            Electrical engineering student <br className="hidden md:block" />
+            interested in <span className='text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-300'>power electronics.</span>
           </h1>
         </motion.div>
 
