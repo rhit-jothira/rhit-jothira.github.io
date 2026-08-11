@@ -12,9 +12,8 @@ export function Hero() {
           className="space-y-4"
         >
           <span className='inline-block px-3 py-1 bg-indigo-500/20 border border-indigo-400/30 rounded-full text-xs font-bold text-indigo-300 uppercase tracking-widest'>Available for Internships</span>
-          <h1 className="font-display text-5xl font-bold leading-tight tracking-tight text-white md:text-7xl lg:text-8xl">
-            Electrical engineering student <br className="hidden md:block" />
-            interested in <span className='text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-300'>power electronics.</span>
+          <h1 className="max-w-5xl font-display text-5xl font-bold leading-[1.1] tracking-tight text-white md:text-7xl lg:text-8xl pb-2">
+            Electrical engineering student interested in <span className='text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-300'>power electronics.</span>
           </h1>
         </motion.div>
 
